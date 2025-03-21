@@ -8,7 +8,6 @@ A responsive dark-themed landing page built with Next.js, featuring a clean layo
 
 ## Features
 
-- **Responsive Design:** Ensures optimal viewing experience across desktops, tablets, and mobile devices.
 - **Dark Theme:** Modern dark-themed aesthetic for a sleek look.
 - **Clean Layout:** Organized sections for content, making customization straightforward.
 - **Modern Illustrations:** Includes contemporary visuals to enhance the design.
